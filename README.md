@@ -1,5 +1,5 @@
 ### Hi there, Iam agung 👋
-[followers] (https://img.shields.io/github/followers/Gitcomeon8?style=social)
+![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
 <!--
 **Gitcomeon8/Gitcomeon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
 -->
-
-
-
-
 ![Gitcomeon8 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcomeon8&show_icons=true&theme=radical)
