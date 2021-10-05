@@ -1,5 +1,6 @@
-### ![gif](https://art.pixilart.com/31d7e9208535f73.gif)Hi there, Iam agung 👋
+### Hi iam agung 👋
 ![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
+![gif](https://art.pixilart.com/31d7e9208535f73.gif)
 <!--
 **Gitcomeon8/Gitcomeon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
