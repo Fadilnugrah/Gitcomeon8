@@ -1,6 +1,6 @@
 ![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
 ### Hello 👋👋
-My name is agung, i have skill soft and not hard because i still newbie and still on learn.<br>
+My name is agung, i have skill soft and not hard because i still newbie and still on learn.
 <img src="https://art.pixilart.com/31d7e9208535f73.gif" width="50" height="50">
 <!--
 **Gitcomeon8/Gitcomeon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
