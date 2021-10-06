@@ -1,7 +1,10 @@
 ![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
 ### Hello 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="35">
+
 My name is agung, i have skill soft and not hard because i still newbie and still on learn.
+
 <img src="https://art.pixilart.com/31d7e9208535f73.gif" width="50" height="50">
+
 <!--
 **Gitcomeon8/Gitcomeon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Github stats 📉
+
+### Github stats 📉 <img src="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="30" height="30">
 [![Top leanguage](https://github-readme-stats.vercel.app/api/top-langs?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)
 [![Gitcomeon8 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)
