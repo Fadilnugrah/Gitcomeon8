@@ -1,5 +1,5 @@
 ![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
-### Hello [![img](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)]
+### Hello [![img](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif = 250x)]
 My name is agung, i have skill soft and not hard because i still newbie and still on learn.
 ![gif](https://art.pixilart.com/31d7e9208535f73.gif)
 <!--
