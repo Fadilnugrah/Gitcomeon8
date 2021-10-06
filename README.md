@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github stats 📉 <img src="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="30" height="40">
+### Github stats 📉 <img src="https://raw.githubusercontent.com/ijlik/ijlik/master/octocat.gif" width="35" height="40">
 [![Top leanguage](https://github-readme-stats.vercel.app/api/top-langs?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)
 [![Gitcomeon8 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)
