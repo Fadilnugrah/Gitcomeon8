@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ### Github stats 📉
 ![Github-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitcomeon8&theme=monokai)</br>
-[![Top leanguage](https://github-readme-stats.vercel.app/api/top-langs?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)<br>
 [![Gitcomeon8 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/github-readme-stats)
 
 ### Language and tools
