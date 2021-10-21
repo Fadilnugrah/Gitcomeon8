@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ### Github stats 📉
-![Github-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitcomeon8&theme=monokai)</br>
+[![Github-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gitcomeon8&theme=monokai)](https://github.com/Gitcomeon8/Gitcomeon8)/br>
 [![Gitcomeon8 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitcomeon8&layout=compact&show_icons=true&theme=radical)](https://github.com/Gitcomeon8/Gitcomeon8)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=ttue&theme=radical)](https://github.com/Gitcomeon8/Gitcomeon8)
 
 ### Language and tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35" height="40"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="35" height="40">
