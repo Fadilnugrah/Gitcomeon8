@@ -1,4 +1,4 @@
-![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)
+![Followers](https://img.shields.io/github/followers/Gitcomeon8?style=social)(https://github.com/Gitcomeon8?tab=followers)
 ### Hello 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="35">
 
 My name is agung i have skill soft and not hard because i still newbie and still on learn.<br>
